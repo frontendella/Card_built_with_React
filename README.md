@@ -1,11 +1,8 @@
-# [Card built with React]()
+# [Card built with React](https://frontendella.github.io/Card_built_with_React/)
 
 
 
-
-https://user-images.githubusercontent.com/82247833/202621549-86c92894-65f6-4f0a-9b5f-702216ebea6b.mov
-
-
+https://user-images.githubusercontent.com/82247833/202622061-25b84c4c-ad16-4407-b3ca-72b0d461e1ef.mov
 
 
 
